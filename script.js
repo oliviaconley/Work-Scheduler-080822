@@ -23,7 +23,7 @@ function displayTime() {
 for (let i = 0; i < $('.container ul li').length; i++) {
     var element = $('.container ul li textarea')[i]
     var currentElTime = $(element).attr("rel")
-    
+
     if (currentTime > currentElTime) {
       element.style.backgroundColor = "#d3d3d3";
    }  else {
@@ -36,9 +36,5 @@ for (let i = 0; i < $('.container ul li').length; i++) {
       element.style.backgroundColor = "#77dd77"; 
    
    }; 
-
-
-     //make conditions for each time, past present and future 
-     //THEN set the class of the element to match the correct color using if/else
 }; 
 
