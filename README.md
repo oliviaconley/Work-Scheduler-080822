@@ -19,6 +19,8 @@ Built a simple calendar application using HTML, CSS, powered by Javascript and j
 
 ## Links
 
+Deployed site: https://oliviaconley.github.io/Work-Scheduler-080822/
+
 GitHub: https://github.com/oliviaconley
 
 LinkedIn: https://www.linkedin.com/in/olivia-conley/
